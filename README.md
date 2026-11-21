@@ -144,3 +144,5 @@ Found a broken link, an archived repository presented as current, or an outdated
 This project is dedicated to the public domain under the [CC0 1.0 Universal](LICENSE) public dedication. To the extent possible under law, the author and all contributors waive all copyright and related rights in this work; you may copy, modify, and distribute it for any purpose, commercial or otherwise, without permission.
 
 The projects and papers cited above remain under their own respective licenses; this list makes no claim on them.
+
+[![CC0](https://img.shields.io/badge/CC0-1.0-lightgrey?style=flat-square)](LICENSE)
