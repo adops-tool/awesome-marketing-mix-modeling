@@ -1,6 +1,6 @@
-<div align="center">
+[![awesome-lead-generation](image/awesome-marketing-mix-modeling.png)](https://github.com/adops-tool/awesome-marketing-mix-modeling/pulls)
 
-# Awesome Marketing Mix Modeling
+[![animated-line](https://github.com/readme-SVG/animated-line/blob/main/STORAGE/line-svg-3D444D.svg)](https://github.com/readme-SVG/animated-line) <!-- -SVG-Line- -->
 
 **A curated list of open-source tools, foundational research, and public datasets for marketing mix modeling (MMM) — built for causal, privacy-durable measurement of marketing effectiveness.**
 
