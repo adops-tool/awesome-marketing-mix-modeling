@@ -2,15 +2,13 @@
 
 # Awesome Marketing Mix Modeling
 
-<sub><i>A curated list of open-source tools, foundational research, and public datasets for marketing mix modeling (MMM) — built for causal, privacy-durable measurement of marketing effectiveness.</i></sub>
+**A curated list of open-source tools, foundational research, and public datasets for marketing mix modeling (MMM) — built for causal, privacy-durable measurement of marketing effectiveness.**
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0--1.0-lightgrey.svg)](LICENSE)
 
 </div>
-
----
 
 ## About
 
