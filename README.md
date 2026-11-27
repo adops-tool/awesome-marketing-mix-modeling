@@ -460,6 +460,8 @@ Every entry below is **open-source, openly published, or publicly reproducible**
 
 ![web](image/alg_I.png) [Recast Blog](https://getrecast.com/blog) - Opinionated, technical essays on MMM practice: saturation curves, channel interactions, budget allocation, and the limits of deterministic last-click measurement.
 
+![web](image/alg_I.png) [Marketing Triangulation](https://marketingtriangulation.com/) - Practitioner articles on combining MMM, incrementality tests and attribution, with sourced guides to Google Meridian, geo experiments and incremental ROAS.
+
 ![web](image/alg_I.png) [Recast Research](https://research.getrecast.com) - Open research and benchmarks from the Recast team, including large-scale geo-experiment simulation studies with reproducible code.
 
 ![web](image/alg_I.png) [PyMC Labs Blog](https://www.pymc-labs.com) - Applied Bayesian case studies and launches from the PyMC Labs team, including funnel-aware MMMs and `do`-operator causal analysis with PyMC-Marketing.
